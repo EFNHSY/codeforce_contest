@@ -24,5 +24,8 @@
     <ClCompile Include="1400A - String Similarity.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1400D - Zigzags.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
