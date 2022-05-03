@@ -1,0 +1,5 @@
+﻿  e.cpp
+C:\Users\홍순빈\source\repos\codeforce\Codeforces Round 786 (Div. 3)\Codeforces Round 786 (Div. 3)\e.cpp(25,10): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\홍순빈\source\repos\codeforce\Codeforces Round 786 (Div. 3)\Codeforces Round 786 (Div. 3)\e.cpp(26,11): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\홍순빈\source\repos\codeforce\Codeforces Round 786 (Div. 3)\Codeforces Round 786 (Div. 3)\e.cpp(27,11): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Codeforces Round 786 (Div. 3).vcxproj -> C:\Users\홍순빈\source\repos\codeforce\Codeforces Round 786 (Div. 3)\Debug\Codeforces Round 786 (Div. 3).exe
