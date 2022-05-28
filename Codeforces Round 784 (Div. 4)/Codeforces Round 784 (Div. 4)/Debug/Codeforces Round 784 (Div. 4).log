@@ -1,0 +1,4 @@
+﻿  H_Maximal AND.cpp
+C:\Users\홍순빈\source\repos\codeforce\Codeforces Round 784 (Div. 4)\Codeforces Round 784 (Div. 4)\H_Maximal AND.cpp(30,21): warning C4244: '+=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\홍순빈\source\repos\codeforce\Codeforces Round 784 (Div. 4)\Codeforces Round 784 (Div. 4)\H_Maximal AND.cpp(34,19): warning C4334: '<<': 32비트 시프트의 결과가 암시적으로 64비트로 변환됩니다. 64비트 시프트를 사용하시겠습니까?
+  Codeforces Round 784 (Div. 4).vcxproj -> C:\Users\홍순빈\source\repos\codeforce\Codeforces Round 784 (Div. 4)\Debug\Codeforces Round 784 (Div. 4).exe

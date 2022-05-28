@@ -1,0 +1,9 @@
+﻿  d_.cpp
+C:\Users\홍순빈\source\repos\codeforce\Codeforces Round 792 (Div. 1 + Div. 2)\Codeforces Round 792 (Div. 1 + Div. 2)\d_.cpp(16,15): warning C4244: '인수': '__int64'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\홍순빈\source\repos\codeforce\Codeforces Round 792 (Div. 1 + Div. 2)\Codeforces Round 792 (Div. 1 + Div. 2)\d_.cpp(25,21): warning C4244: '인수': '__int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\홍순빈\source\repos\codeforce\Codeforces Round 792 (Div. 1 + Div. 2)\Codeforces Round 792 (Div. 1 + Div. 2)\d_.cpp(28,16): warning C4244: '인수': '_Ty2'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty2=__int64
+          ]
+  Codeforces Round 792 (Div. 1 + Div. 2).vcxproj -> C:\Users\홍순빈\source\repos\codeforce\Codeforces Round 792 (Div. 1 + Div. 2)\Debug\Codeforces Round 792 (Div. 1 + Div. 2).exe
